@@ -7,6 +7,10 @@
 
 !     ----------UMAT ONLY FOR PLANE ELEMENST WITH HASHIN DAMAGE---------
 
+!     #COPYRIGHT 2020 BY MÁRIO RUI TIAGO ARRUDA
+!     ALL RIGHTS RESERVED. NO PART OF THIS SUBROUTINE MAY BE REPRODUCED OR 
+!     USED IN ANY MANNER WITHOUT WRITTEN PERMISSION OF THE COPYRIGHT OWNER.
+
 ! When using this UMAT in papers, always cite these works https://doi.org/10.1016/j.compositesb.2020.107818 and 
 ! https://doi.org/10.1016/j.compstruct.2020.112453 and always provide credit to the original authors
 
